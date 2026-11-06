@@ -28,11 +28,8 @@ O objetivo principal é a simulação numérica bidimensional do comportamento t
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 * **Linguagem / Ambiente:** GNU Octave / MATLAB (implementação dos solvers numéricos e pós-processamento gráfico).
-* **Engenharia Computacional:** Elementos finitos/diferenças finitas, métodos numéricos implícitos e análise de transferência de calor.
+* **Engenharia Computacional:** diferenças finitas, métodos numéricos implícitos e análise de transferência de calor.
 
 ---
 
-## 📂 Estrutura do Repositório
-- `/codigo/` — Scripts em Octave/MATLAB com os algoritmos ADI e TDMA.
-- `/relatorio/` — Relatório técnico completo em formato PDF.
-- `/resultados/` — Mapas de calor (isotermas), curvas transientes e gráficos de convergência.
+
